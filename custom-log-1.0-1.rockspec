@@ -2,7 +2,7 @@ package = "custom-log"
 version = "1.0-1"
 rockspec_format = "1.1"
 source = {
-   url = "...",    
+   url = "https://github.com/99shivansh/custom-plugin.git",    
    dir = "."  -- If you have a repo for this plugin, otherwise leave as is
 }
 description = {
